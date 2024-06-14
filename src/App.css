@@ -1,0 +1,62 @@
+.App{
+  text-align: center;
+}
+.form{
+  background-color: beige;
+  width: 500px;
+  padding: 20px;
+ display: inline-block;
+ border: 5px groove rgb(205, 247, 246);
+ border-bottom-left-radius: 12px;
+ border-bottom-right-radius: 12px;
+
+}
+.form div{
+  text-align: center;
+  margin: 10px;
+  
+
+}
+.form label {
+  margin-right: 20px;
+  width: 100px;
+  font-size: 22px;
+  color: blueviolet;
+  display: inline-block;
+  font-family: serif;
+ 
+}
+.form input{
+  width: 200px;
+  height: 30px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+button{
+  height: 30px;
+  background-color: rgb(91, 73, 77);
+  color: rgb(247, 239, 239);
+  font-family: sans-serif;
+  border-radius: 12px;
+  box-shadow: 1px 2px 3px black;
+  margin-top: 10px;
+}
+h1{
+  color:rgba(245, 10, 49, 0.653);
+  display: inline;
+  font-size: 3rem;
+  font-style: italic;
+  font-family: serif;
+
+  
+}
+.heading{
+  background-color: rgb(248, 248, 180);
+  width: 550px;
+  margin-left: 265px;
+  /* display: inline;  */
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  margin-top: 12px;
+  
+}
