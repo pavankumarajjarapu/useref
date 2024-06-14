@@ -90,7 +90,7 @@ function MarksSheet() {
             alert(Lastname);
         }}>SCOPEOFVARIABLE</button>
       </form>
-    </div>n
+    </div>
   );
 }
 
